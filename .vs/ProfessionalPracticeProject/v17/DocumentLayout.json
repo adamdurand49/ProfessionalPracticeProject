@@ -16,12 +16,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,8 +28,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAmwEIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T21:45:03.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T21:45:03.496Z"
             },
             {
               "$type": "Document",
