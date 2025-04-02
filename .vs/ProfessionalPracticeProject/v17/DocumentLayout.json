@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\adamd\\source\\repos\\adamdurand49\\ProfessionalPracticeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,23 +16,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
               "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAmwEIAAAAbAAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAGUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T21:45:03.496Z"
+              "WhenOpened": "2025-03-03T21:45:03.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml",
