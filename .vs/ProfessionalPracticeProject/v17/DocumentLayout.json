@@ -6,6 +6,15 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Repositories\\ArtistRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Data\\MusicAppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Models\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -16,8 +25,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -26,14 +39,14 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
               "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAAAGUAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAI4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T21:45:03.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\MainPage.xaml",
@@ -42,6 +55,45 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-03T21:45:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Repositories\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Repositories\\ArtistRepository.cs",
+              "ToolTip": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Repositories\\ArtistRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Repositories\\ArtistRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:34:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Models\\Artist.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:34:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Data\\MusicAppContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Data\\MusicAppContext.cs",
+              "ToolTip": "C:\\Users\\adamd\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Data\\MusicAppContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Atlantic TU\\Year 3\\Sem 2\\Professional Practice in IT\\MainProject\\MainProject\\Data\\MusicAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:32:50.33Z",
               "EditorCaption": ""
             }
           ]
